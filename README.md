@@ -7,3 +7,9 @@ Various memory management schemes are simulated using C language.
 3. Worst Fit
 
 The given schemes are assumed to be introduced in a fixed-size memory partitioning.
+
+### References
+
+https://en.wikipedia.org/wiki/Memory_management_(operating_systems)
+
+https://www.geeksforgeeks.org/memory-management-in-operating-system/
